@@ -1,0 +1,72 @@
+.body{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 100%; /* Makes the font go to 16 pixels */
+}
+
+h4 {
+font: 1.125em arial; /* 18px :  16px = 1.2em*/
+
+}
+
+
+.top{
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.line{
+  width: 100%;
+  size: 5px;
+}
+
+.center-image{
+   width: 100%;
+}
+
+.small-images{
+  margin-top: 30px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+#footer-jos {
+  width: auto;
+  background-color: black ;
+  overflow: hidden;
+  text-align: center;
+  padding: 5px;
+}
+
+#footer-jos p{
+  font-size: 15px;
+  color:white;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: white;
+  }
+
+.fa:hover {
+    opacity: ;
+}
+}
